@@ -1,0 +1,16 @@
+Lemmatization
+ Size of Vocubulary: 25
+Occurrences on average: 10.8
+Size on average: 6.0
+
+Porter
+
+Size of Vocubulary: 25
+Occurrences on average: 12.56
+Size on average: 5.32
+
+Snowball
+
+Size of Vocubulary: 25
+Occurrences on average: 12.56
+Size on average: 5.24
